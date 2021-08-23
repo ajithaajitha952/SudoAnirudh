@@ -9,15 +9,14 @@
 - 🕵️ I’m looking to collaborate with other **devs**
 
 - 👨‍💻 All of my projects are available at
-                   **[https:/SudoAnirudh.github=ropo-official](https://github.com/SudoAnirudh/anirudhsudher?tab=repositories)**
+                   **[REPOSITORIES](https://github.com/SudoAnirudh/SudoAnirudh?tab=repositories)**
 
 - 💬 Ask me about: **Bots** and **Coding**
 
 -- 📫 How to reach me: 
-
-- 🤣 Fun Fact: My **smartness** 💡 lies in my **laziness** 😴
-
-- 🆓 Don't Forget To **[Follow Me](https://github.com/SudoAnirudh/anirudhsudhee)**
+                  **[WHATSAPP](https://wa.me/919539102851)**
+                  
+- 🆓 Don't Forget To **[Follow Me](https://github.com/SudoAnirudh/SudoAnirudh)**
 
 <p align="center"> <a href="Anirudh"><img width="170px" height="24" src="https://komarev.com/ghpvc/?username=SudoAnirudh&label=PROFILE%20VISITORS&color=green&style=flat-square" alt="Anirudh" /></a> </p><br> 
 
@@ -36,7 +35,7 @@
 
 </details>
 
-##
+
 
 <details>
     <summary>&#127942 <b>GitHub Activity (Public Data)</b></summary><br/>
@@ -45,7 +44,7 @@
 
 </details>
 
-##
+
 
 ## Another Pin Project
 <details>
