@@ -53,4 +53,9 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SudoAnirudh&repo=Eva">
   </a>
 </details>
-
+<details>
+  <summary>My New WhatsApp Project</summary>
+   <a href="https://github.com/SudoAnirudh/Eva_2.0">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SudoAnirudh&repo=Eva_2.0">
+  </a>
+</details>
