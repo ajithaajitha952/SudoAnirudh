@@ -53,8 +53,8 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SudoAnirudh&repo=Eva">
   </a>
    <summary>My New WhatsApp Project</summary>
-   <a href="https://github.com/SudoAnirudh/Eva_2.0">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SudoAnirudh&repo=Eva_2.0">
+   <a href="https://github.com/SudoAnirudh/_E-V-A_">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SudoAnirudh&repo=_E-V-A_">
   </a>
 </details>
 
