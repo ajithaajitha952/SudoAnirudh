@@ -49,7 +49,7 @@
 ## Another Pin Project
 <details>
   <summary>My New WhatsApp Project</summary>
-   <a href="https://github.com/SudoAnirudh/Eva">
+   <a href="https://github.com/ajithaajitha952/SudoAnirudh/edit/master/README.md">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SudoAnirudh&repo=Eva">
   </a>
    <summary>My New WhatsApp Project</summary>
